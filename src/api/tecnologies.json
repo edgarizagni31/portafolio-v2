@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Sass",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+  },
+  {
+    "name": "Typescript",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  },
+  {
+    "name": "React",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+  },
+
+  {
+    "name": "Next.js",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
+  },
+  {
+    "name": "Jest",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+  },
+  {
+    "name": "Laravel",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"
+  },
+  {
+    "name": "Express",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+  },
+  {
+    "name": "API Facebook",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"
+  },
+  {
+    "name": "Google Cloud",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+  },
+  {
+    "name": "Python",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+  },
+  {
+    "name": "Selenium",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+  },
+  {
+    "name": "Git",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+  }
+]

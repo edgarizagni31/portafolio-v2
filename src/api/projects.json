@@ -1,0 +1,69 @@
+[
+  {
+    "name": "ERP Rangers Very",
+    "description": "Desarollo de los modulos de motorizados, reportes de pedidos, contabilidad, restaurantes afiliados, geozonas con ayuda de la API de Google Maps donde se indicaba el precio de delivery dentro de la geozona. Ademas de distintos modulos que permiten automatizar dinamicamente el contenido de las apps moviles",
+    "private": true,
+    "images": [
+      "https://res.cloudinary.com/dv439gufn/image/upload/v1720153028/portafolio/wsmf5yh7ixtaofpfnzs7.png",
+      "https://res.cloudinary.com/dv439gufn/image/upload/v1720151266/portafolio/k59gcizbr8jsr9si4irr.png",
+      "https://res.cloudinary.com/dv439gufn/image/upload/v1720151353/portafolio/y0haehdwzt2ekvpktpn9.png"
+    ],
+    "tec": ["Tailwind CSS", "Typescript", "Next.js", "Firebase", "Git"]
+  },
+  {
+    "name": "CRM Very Restaurante",
+    "description": "Sistema que permite a los restaurantes administrar sus locales y su carta digital, cupones, promociones y horario para cada uno de ellos, tambien como el control de su personal y administración de pedidos",
+    "private": false,
+    "images": [
+      "https://res.cloudinary.com/dv439gufn/image/upload/v1720153474/portafolio/gky9gho1swl9eekaszar.png",
+      "https://res.cloudinary.com/dv439gufn/image/upload/v1720153345/portafolio/zwdmodj306wavnwwpkf7.png"
+    ],
+    "link": "https://rangers-very.vercel.app/",
+    "tec": [
+      "Tailwind CSS",
+      "Sass",
+      "Typescript",
+      "Next.js",
+      "Firebase",
+      "Google Cloud",
+      "Git"
+    ]
+  },
+  {
+    "name": "ERP Very Clientes",
+    "description": "Sistema que permite a un cliente realizar un pedido, el cliente puede elegir la modalidad si desea recoger o a domicilio. Se genera una comanda, la cual es enviada via Whatsapp a la tienda selecionada.",
+    "private": false,
+    "link": "https://www.verymenu.com/",
+    "tec": [
+      "Sass",
+      "Typescript",
+      "React",
+      "Express",
+      "Firebase",
+      "Google Cloud",
+      "Git"
+    ]
+  },
+  {
+    "name": "Web Scraping",
+    "description": "Script que permitia obtener datos de una pagina X, estos datos eran registrados en una pagina Y. Ademas tomaba capturas de este proceso y que eran almacenados en una base de datos.",
+    "private": true,
+    "images": [],
+    "tec": ["Python", "Selenium", "Firebase"]
+  },
+  {
+    "name": "Atención al cliente",
+    "description": "Sistema que registra los numeros, mensajes e imagenes que son enviadas al Whatsapp de la empresa, cada una de estas conversaciones es asignado a una vendedora. Esto mendiante un API hecha en laravel y una vista en React",
+    "private": true,
+    "images": [],
+    "tec": [
+      "Tailwind CSS",
+      "Typescript",
+      "React",
+      "Laravel",
+      "MySQL",
+      "API Facebook",
+      "Git"
+    ]
+  }
+]
