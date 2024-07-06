@@ -1,0 +1,38 @@
+.contact {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.contact__title {
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.contact__item {
+  display: flex;
+  font-weight: 500;
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.contact__text,
+.contact__text:active .contact__text:visited .contact__text:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.contact__icon {
+  margin-right: 10px;
+  font-size: 28px;
+}
+
+@media screen and (max-width: 772px) {
+  .contact {
+    padding-bottom: 70px;
+  }
+}

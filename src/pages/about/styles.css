@@ -1,0 +1,65 @@
+.about {
+  display: grid;
+  grid-template-columns: repeat(2, 40%);
+  gap: 170px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.about__title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.about__desc {
+  line-height: 1.5;
+}
+
+.tecs {
+  display: grid;
+  grid-template-columns: repeat(6, 90px);
+  gap: 24px;
+}
+
+.tec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.tec__img {
+  margin-bottom: 10px;
+  width: 64px;
+  height: 64px;
+}
+
+@media screen and (max-width: 992px) {
+  .about {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    padding-bottom: 70px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .about__technologies {
+    margin-bottom: 20px;
+  }
+
+  .about__desc {
+    line-height: 1.7;
+  }
+
+  .tecs {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .tecs {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}

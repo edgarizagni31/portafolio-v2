@@ -8,7 +8,11 @@
       "https://res.cloudinary.com/dv439gufn/image/upload/v1720151266/portafolio/k59gcizbr8jsr9si4irr.png",
       "https://res.cloudinary.com/dv439gufn/image/upload/v1720151353/portafolio/y0haehdwzt2ekvpktpn9.png"
     ],
-    "tec": ["Tailwind CSS", "Typescript", "Next.js", "Firebase", "Git"]
+    "tec": ["Tailwind CSS", "Typescript", "Next.js", "Firebase", "Git"],
+    "owner": {
+      "name": "Rangers Very",
+      "image": "https://scontent.fpiu1-1.fna.fbcdn.net/v/t39.30808-6/299679091_767433357800135_1474816514437664493_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGIa4Cu9cKZMZA70IEImODBqnXqf0cRAMyqdep_RxEAzAVIukF7p53AeCD1BEjf2GYyJfWlHH-WPJDpLfQfRu8w&_nc_ohc=-hr7XD8A0O0Q7kNvgESR5E_&_nc_ht=scontent.fpiu1-1.fna&oh=00_AYCcs1st7fSNCU3Hc1u9D8zximhDLR342K7745eSSqfPmw&oe=668D592A"
+    }
   },
   {
     "name": "CRM Very Restaurante",
@@ -27,7 +31,11 @@
       "Firebase",
       "Google Cloud",
       "Git"
-    ]
+    ],
+    "owner": {
+      "name": "Rangers Very",
+      "image": "https://scontent.fpiu1-1.fna.fbcdn.net/v/t39.30808-6/299679091_767433357800135_1474816514437664493_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGIa4Cu9cKZMZA70IEImODBqnXqf0cRAMyqdep_RxEAzAVIukF7p53AeCD1BEjf2GYyJfWlHH-WPJDpLfQfRu8w&_nc_ohc=-hr7XD8A0O0Q7kNvgESR5E_&_nc_ht=scontent.fpiu1-1.fna&oh=00_AYCcs1st7fSNCU3Hc1u9D8zximhDLR342K7745eSSqfPmw&oe=668D592A"
+    }
   },
   {
     "name": "ERP Very Clientes",
@@ -42,14 +50,22 @@
       "Firebase",
       "Google Cloud",
       "Git"
-    ]
+    ],
+    "owner": {
+      "name": "Rangers Very",
+      "image": "https://scontent.fpiu1-1.fna.fbcdn.net/v/t39.30808-6/299679091_767433357800135_1474816514437664493_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGIa4Cu9cKZMZA70IEImODBqnXqf0cRAMyqdep_RxEAzAVIukF7p53AeCD1BEjf2GYyJfWlHH-WPJDpLfQfRu8w&_nc_ohc=-hr7XD8A0O0Q7kNvgESR5E_&_nc_ht=scontent.fpiu1-1.fna&oh=00_AYCcs1st7fSNCU3Hc1u9D8zximhDLR342K7745eSSqfPmw&oe=668D592A"
+    }
   },
   {
     "name": "Web Scraping",
     "description": "Script que permitia obtener datos de una pagina X, estos datos eran registrados en una pagina Y. Ademas tomaba capturas de este proceso y que eran almacenados en una base de datos.",
     "private": true,
     "images": [],
-    "tec": ["Python", "Selenium", "Firebase"]
+    "tec": ["Python", "Selenium", "Firebase"],
+    "owner": {
+      "name": "Freelancer",
+      "image": "https://kinsta.com/es/wp-content/uploads/sites/8/2018/08/best-tools-for-freelancers-1-1-1024x512.png"
+    }
   },
   {
     "name": "Atención al cliente",
@@ -64,6 +80,10 @@
       "MySQL",
       "API Facebook",
       "Git"
-    ]
+    ],
+    "owner": {
+      "name": "Geosatelital",
+      "image": "https://geosatelital.com.pe/wp-content/uploads/2024/02/cropped-geo-favicom.webp"
+    }
   }
 ]
