@@ -18,13 +18,13 @@ export const Navbar = () => {
         <NavItem to="/">
           <BsHouseDoor className="navbar__icon" />
         </NavItem>
-        <NavItem to="/">
+        <NavItem to="/sobre-mi">
           <BsCardText className="navbar__icon" />
         </NavItem>
-        <NavItem to="/">
+        <NavItem to="/proyectos">
           <BsGrid className="navbar__icon" />
         </NavItem>
-        <NavItem to="/">
+        <NavItem to="/contacto">
           <FaTelegramPlane className="navbar__icon" />
         </NavItem>
       </div>
