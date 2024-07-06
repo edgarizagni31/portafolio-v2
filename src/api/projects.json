@@ -1,7 +1,7 @@
 [
   {
     "name": "ERP Rangers Very",
-    "description": "Desarollo de los modulos de motorizados, reportes de pedidos, contabilidad, restaurantes afiliados, geozonas con ayuda de la API de Google Maps donde se indicaba el precio de delivery dentro de la geozona. Ademas de distintos modulos que permiten automatizar dinamicamente el contenido de las apps moviles",
+    "description": "Desarrollo de los módulos de motorizados, reportes de pedidos, contabilidad, restaurantes afiliados, geo zonas con ayuda de la API de Google Maps donde se indicaba el precio de delivery dentro de la geo zona. Además de distintos módulos que permiten automatizar dinámicamente el contenido de las apps móviles.",
     "private": true,
     "images": [
       "https://res.cloudinary.com/dv439gufn/image/upload/v1720153028/portafolio/wsmf5yh7ixtaofpfnzs7.png",
@@ -16,7 +16,7 @@
   },
   {
     "name": "CRM Very Restaurante",
-    "description": "Sistema que permite a los restaurantes administrar sus locales y su carta digital, cupones, promociones y horario para cada uno de ellos, tambien como el control de su personal y administración de pedidos",
+    "description": "Sistema que permite a los restaurantes administrar sus locales y su carta digital, cupones, promociones y horario para cada uno de ellos, también como el control de su personal y administración de pedidos",
     "private": false,
     "images": [
       "https://res.cloudinary.com/dv439gufn/image/upload/v1720153474/portafolio/gky9gho1swl9eekaszar.png",
@@ -38,8 +38,8 @@
     }
   },
   {
-    "name": "ERP Very Clientes",
-    "description": "Sistema que permite a un cliente realizar un pedido, el cliente puede elegir la modalidad si desea recoger o a domicilio. Se genera una comanda, la cual es enviada via Whatsapp a la tienda selecionada.",
+    "name": "CRM Very Clientes",
+    "description": "Sistema que permite a un cliente realizar un pedido, el cliente puede elegir la modalidad si desea recoger o a domicilio. Se genera una comanda, la cual es enviada vía WhatsApp a la tienda seleccionada.",
     "private": false,
     "link": "https://www.verymenu.com/",
     "tec": [
@@ -58,18 +58,18 @@
   },
   {
     "name": "Web Scraping",
-    "description": "Script que permitia obtener datos de una pagina X, estos datos eran registrados en una pagina Y. Ademas tomaba capturas de este proceso y que eran almacenados en una base de datos.",
+    "description": "Script que permitía obtener datos de una página X, estos datos a buscar se hacían mediante una clave de búsqueda en formato CSV, luego los datos eran registrados en una página Y. Además tomaba capturas de este proceso y que eran almacenados en una base de datos.",
     "private": true,
     "images": [],
     "tec": ["Python", "Selenium", "Firebase"],
     "owner": {
       "name": "Freelancer",
-      "image": "https://kinsta.com/es/wp-content/uploads/sites/8/2018/08/best-tools-for-freelancers-1-1-1024x512.png"
+      "image": "/favicon.png"
     }
   },
   {
     "name": "Atención al cliente",
-    "description": "Sistema que registra los numeros, mensajes e imagenes que son enviadas al Whatsapp de la empresa, cada una de estas conversaciones es asignado a una vendedora. Esto mendiante un API hecha en laravel y una vista en React",
+    "description": "Sistema que registra los números, mensajes e imágenes que son enviadas al WhatsApp de la empresa, cada una de estas conversaciones es asignado a una vendedora. Esto mediante una API hecha en Laravel y una vista en React.",
     "private": true,
     "images": [],
     "tec": [
