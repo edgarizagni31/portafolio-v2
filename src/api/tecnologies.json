@@ -4,7 +4,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
   },
   {
-    "name": "Tailwind CSS",
+    "name": "Tailwind css",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
   },
   {
@@ -22,7 +22,7 @@
 
   {
     "name": "Next.js",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
   },
   {
     "name": "Jest",
@@ -50,7 +50,7 @@
   },
   {
     "name": "Google Cloud",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
   },
   {
     "name": "Python",
@@ -62,6 +62,6 @@
   },
   {
     "name": "Git",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
   }
 ]
